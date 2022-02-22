@@ -5,9 +5,9 @@ import { SafeAreaView, StyleSheet, ScrollView, View, Text, StatusBar, FlatList }
 const App = () => {
   return (
     <View>
+      <Text>Modified</Text>
       <Text>Hello</Text>
       <PushController />
-
     </View>
   );
 };
